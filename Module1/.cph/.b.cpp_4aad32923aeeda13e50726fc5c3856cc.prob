@@ -1,0 +1,1 @@
+{"name":"Local: b","url":"c:\\Users\\dell\\OneDrive\\Desktop\\Cp_1\\Module1\\b.cpp","tests":[{"id":1718031214592,"input":"7 7 7","output":"7"},{"id":1718031386609,"input":"6 9 7\n","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dell\\OneDrive\\Desktop\\Cp_1\\Module1\\b.cpp","group":"local","local":true}

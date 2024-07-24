@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"c:\\Users\\dell\\OneDrive\\Desktop\\Cp_1\\round 951\\a.cpp","tests":[{"id":1717685360625,"input":"2\n2\n1 2\n5\n1 2 3 4 5\n\n","output":"1\n4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dell\\OneDrive\\Desktop\\Cp_1\\round 951\\a.cpp","group":"local","local":true}
